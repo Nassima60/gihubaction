@@ -1,6 +1,13 @@
 {
   "name": "github-actions-demo",
   "version": "1.0.0",
-  "scripts": {"test": "jest"},
-  "devDependencies": {"jest": "^29.0.0"}
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "save-dev": "^0.0.1-security"
+  }
 }
